@@ -46,6 +46,7 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=712cf9)
+  ![](https://img.shields.io/badge/Tools-Android-Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=712cf9)
   <br>
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=712cf9)
@@ -56,6 +57,7 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=712cf9)
   ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=712cf9)
+    ![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=712cf9)
 
 <br>
 </details>
