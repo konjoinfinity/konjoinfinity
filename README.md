@@ -44,7 +44,7 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-iOS-informational?style=flat&logo=ios&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=712cf9)
- ![](https://img.shields.io/badge/Style-Expo-informational?style=flat&logo=expo&logoColor=white&color=712cf9)
+ ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=712cf9)
   <br>
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=712cf9)
