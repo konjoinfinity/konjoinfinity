@@ -48,7 +48,6 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&logo=googleplay&logoColor=white&color=712cf9)
-  <br>
   ![](https://img.shields.io/badge/Tools-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=712cf9)
