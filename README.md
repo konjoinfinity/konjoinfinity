@@ -12,7 +12,7 @@ Want to know more about me? Check out my links below.
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/gerard_west/)
 <br>
 
-# ⭐️ Stats
+# 📊 Stats
 <br>
 <a href="https://github.com/konjoinfinity">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
