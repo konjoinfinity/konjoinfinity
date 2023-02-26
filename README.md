@@ -1,4 +1,4 @@
-# Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" height='75'/>
+# Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
 
 I’m a front end engineer with a passion for building visually stunning and impactful applications using cutting edge technology. I love solving problems using code, but I also enjoy sharing insights about blockchain and Web3 through my [blog](https://www.konjotech.com/articles/).
