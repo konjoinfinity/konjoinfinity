@@ -29,7 +29,9 @@ Want to know more about me? Check out my links below.
   <a href="https://github.com/konjoinfinity">
 <img width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
+  <a href="https://github.com/konjoinfinity">
 <img height='315px' src="https://ssr-contributions-svg.vercel.app/_/konjoinfinity?chart=calendar&format=svg&weeks=5&theme=cyan&dark=true" />
+      </a>
  <br><br>
   <a href="https://github.com/konjoinfinity">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss" />
