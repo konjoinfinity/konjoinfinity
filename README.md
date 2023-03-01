@@ -80,23 +80,23 @@ Want to know more about me? Check out my links below.
 <br>
 
 <a href="https://github.com/konjoinfinity/ioskonjo">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=ioskonjo&title_color=ffffff&text_color=c9cacc&icon_color=1f6feb&bg_color=0d1117" />
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=ioskonjo&bg_color=20232A&theme=react" />
 </a>
 
 <a href="https://github.com/konjoinfinity/js-calculator">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=js-calculator&title_color=ffffff&text_color=c9cacc&icon_color=1f6feb&bg_color=0d1117" />
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=js-calculator&bg_color=20232A&theme=react" />
 </a>
 
 <a href="https://github.com/konjoinfinity/countdown-mobile-app">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=countdown-mobile-app&title_color=ffffff&text_color=c9cacc&icon_color=1f6feb&bg_color=0d1117" />
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=countdown-mobile-app&bg_color=20232A&theme=react" />
 </a>
 
 <a href="https://github.com/konjoinfinity/webthree">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=webthree&title_color=ffffff&text_color=c9cacc&icon_color=1f6feb&bg_color=0d1117" />
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=webthree&bg_color=20232A&theme=react" />
 </a>
 
 <a href="https://github.com/konjoinfinity/keepup">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=keepup&title_color=ffffff&text_color=c9cacc&icon_color=1f6feb&bg_color=0d1117" />
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=keepup&bg_color=20232A&theme=react" />
 </a>
 
 <br>
