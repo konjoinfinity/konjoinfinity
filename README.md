@@ -29,7 +29,7 @@ Want to know more about me? Check out my links below.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
   <a href="https://github.com/konjoinfinity">
-  <img width="66%" src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss">
+  <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss">
     </a>
 </div>
 
