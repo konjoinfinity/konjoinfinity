@@ -16,11 +16,11 @@ Want to know more about me? Check out my links below.
 <br>
 <div align=center>
  <a href="https://github.com/konjoinfinity">
-  <img src="https://github-readme-stats.vercel.app/api?username=konjoinfinity&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=konjoinfinity&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
 </a>
     
 <a href="https://github.com/konjoinfinity">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=konjoinfinity&theme=react&bg_color=20232A">
+  <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com?user=konjoinfinity&theme=react&bg_color=20232A">
   </a>  
   </div>
 <br>
