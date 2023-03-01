@@ -10,7 +10,8 @@ Want to know more about me? Check out my links below.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wesleyscholl/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/track/1AQLopqKVQInHPWOqgv2J0?si=eda59e5e385b4031)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/gerard_west/)
-<br>
+<img src="https://komarev.com/ghpvc/?username=konjoinfinity&label=Profile%20views&color=1f6feb" alt="konjoinfinity" />
+<br> 
 
 # 📊 Stats
 <br>
