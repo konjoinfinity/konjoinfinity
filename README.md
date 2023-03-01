@@ -14,14 +14,24 @@ Want to know more about me? Check out my links below.
 
 # 📊 Stats
 <br>
-<a href="https://github.com/konjoinfinity">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
+<div align=center>
+ <a href="https://github.com/konjoinfinity">
+  <img src="https://github-readme-stats.vercel.app/api?username=konjoinfinity&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
 </a>
-
+    
 <a href="https://github.com/konjoinfinity">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=konjoinfinity&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=1f6feb&bg_color=0d1117" alt="Wesley's GitHub Stats" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=konjoinfinity&theme=react&bg_color=20232A">
+  </a>  
+  </div>
 <br>
+<div align=center>
+  <a href="https://github.com/konjoinfinity">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
+    </a>
+  <a href="https://github.com/konjoinfinity">
+  <img width="52%" src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss">
+    </a>
+</div>
 
 # 👨🏻‍💻 Skills
 <br>
