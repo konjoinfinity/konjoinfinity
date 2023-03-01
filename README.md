@@ -17,20 +17,21 @@ Want to know more about me? Check out my links below.
 <br>
 <div align=center>
  <a href="https://github.com/konjoinfinity">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=konjoinfinity&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=konjoinfinity&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
 </a>
     
 <a href="https://github.com/konjoinfinity">
-  <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com?user=konjoinfinity&theme=react&bg_color=20232A">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=konjoinfinity&theme=react&bg_color=20232A">
   </a>  
   </div>
-<br>
+
 <div align=center>
   <a href="https://github.com/konjoinfinity">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
+<img width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=konjoinfinity&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
     </a>
+
   <a href="https://github.com/konjoinfinity">
-  <img width="55%" src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss">
     </a>
 </div>
 
