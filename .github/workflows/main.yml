@@ -18,3 +18,5 @@ jobs:
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
+          base: header, activity, community, repositories, metadata
+          base_indepth: true
