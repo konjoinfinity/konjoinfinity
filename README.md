@@ -1,7 +1,7 @@
 # Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
 
-I’m a front end engineer with a passion for building visually stunning and impactful applications using cutting edge technology. I love solving problems using code, but I also enjoy sharing insights about blockchain and Web3 through my [blog](https://www.konjotech.com/articles/).
+I’m a full stack engineer with a passion for building visually stunning and impactful applications using cutting edge technology. I love solving problems using code, but I also enjoy sharing insights about blockchain and Web3 through my [blog](https://www.konjotech.com/articles/).
 
 With all the projects that I take on, I bring high value skills, a depth of knowledge, and a mission accomplishment mindset stemming from my time in the US Marines. Are you ready to tackle big tech challenges together? Let's go, I'm ready to build.
 
