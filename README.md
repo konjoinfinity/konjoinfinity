@@ -105,6 +105,9 @@ Want to know more about me? Check out my links below.
   <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=keepup&bg_color=20232A&theme=react" />
 </a>
 
+<a href="https://github.com/konjoinfinity/songscraper">
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=songscraper&bg_color=20232A&theme=react" />
+</a>
 <br>
 <br>
 
