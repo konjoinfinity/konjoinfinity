@@ -84,17 +84,12 @@ Want to know more about me? Check out my links below.
 ## 📌 Pinned Repositories
 
 <br>
+<a href="https://github.com/konjoinfinity/songscraper">
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=songscraper&bg_color=20232A&theme=react" />
+</a>
 
 <a href="https://github.com/konjoinfinity/ioskonjo">
   <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=ioskonjo&bg_color=20232A&theme=react" />
-</a>
-
-<a href="https://github.com/konjoinfinity/js-calculator">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=js-calculator&bg_color=20232A&theme=react" />
-</a>
-
-<a href="https://github.com/konjoinfinity/countdown-mobile-app">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=countdown-mobile-app&bg_color=20232A&theme=react" />
 </a>
 
 <a href="https://github.com/konjoinfinity/webthree">
@@ -105,8 +100,12 @@ Want to know more about me? Check out my links below.
   <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=keepup&bg_color=20232A&theme=react" />
 </a>
 
-<a href="https://github.com/konjoinfinity/songscraper">
-  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=songscraper&bg_color=20232A&theme=react" />
+<a href="https://github.com/konjoinfinity/js-calculator">
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=js-calculator&bg_color=20232A&theme=react" />
+</a>
+
+<a href="https://github.com/konjoinfinity/countdown-mobile-app">
+  <img align="center" style="margin:0.55rem" src="https://github-readme-stats.vercel.app/api/pin/?username=konjoinfinity&repo=countdown-mobile-app&bg_color=20232A&theme=react" />
 </a>
 <br>
 <br>
