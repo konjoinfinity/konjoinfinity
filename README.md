@@ -33,9 +33,9 @@ Want to know more about me? Check out my links below.
 <img height='315px' src="https://ssr-contributions-svg.vercel.app/_/konjoinfinity?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
  <br><br>
-  <a href="https://github.com/konjoinfinity">
+<!--   <a href="https://github.com/konjoinfinity">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=konjoinfinity&theme=react-dark&bg_color=20232A&hide=html,css,scss" />
-    </a>
+    </a> -->
 </div>
 
 
